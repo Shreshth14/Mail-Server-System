@@ -1,0 +1,9 @@
+input{color:red;border-radius:1px;font-weight:bold;font-size:15px;width:210px;height:25px;}
+textarea{color:red;border-radius:1px;font-weight:bold;font-size:15px;width:210px;height:60px;}
+h1{color:#330066;}
+input:hover{background:yellow}
+input[type=submit]:hover{background:pink}
+input[type=reset]:hover{background:pink}
+textarea:hover{background:yellow}
+input[type=submit]{width:120px;height:30px}
+input[type=reset]{width:100px;height:30px}
